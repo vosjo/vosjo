@@ -9,6 +9,20 @@
 I am Joris Vos, a scientist with an education in Astrophysics. I am an end-to-end data scientist and worked on projects covering the entire path from problem definition, data aquisition, data reduction and clearning, hypothesis testing, model creation and testing, and reporting on the results. Below you can find a few python packages for the aquisition and modeling of astronomical data that I have developed over my career in astronomy. 
 You can find me on <a href="https://www.linkedin.com/in/joris-vos/"><img height="16" src="https://raw.githubusercontent.com/vosjo/vosjo/master/linkedin-3-16.png?raw=true"></a>.
 
+### Projects
+<a href="https://github.com/vosjo/nnaps">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vosjo&repo=nnaps" />
+</a>
+<a href="https://github.com/vosjo/trackExplorer">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vosjo&repo=trackExplorer" />
+</a>
+<a href="https://github.com/vosjo/speedyfit">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vosjo&repo=speedyfit" />
+</a>
+<a href="https://github.com/vosjo/emcmass">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=vosjo&repo=emcmass" />
+</a>
+
 <!--
 **vosjo/vosjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
