@@ -1,4 +1,4 @@
-![Joris Vos header](https://raw.githubusercontent.com/vosjo/vosjo/master/header.jpg)
+![Joris Vos header](https://raw.githubusercontent.com/vosjo/vosjo/master/header.svg)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blue)
